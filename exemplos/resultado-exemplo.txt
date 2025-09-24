@@ -1,0 +1,46 @@
+📚 Resultado da missão gamificada - CrewAI
+
+🎯 Tema: Conscientização Ambiental entre Jovens via Jogos Estilo The Sims
+
+---
+
+🔎 PESQUISA (Agente: Pesquisador Ambiental)
+
+Foram encontradas 3 estratégias eficazes para promover a educação ambiental em jogos:
+
+1. Missões com objetivos ecológicos: tarefas como plantar árvores, reciclar materiais e reduzir o consumo de água.
+2. Recompensas ecológicas: desbloqueio de bônus por boas práticas sustentáveis dentro do jogo.
+3. NPCs educadores: personagens que ensinam dicas ambientais e desafiam o jogador com perguntas.
+
+---
+
+🎮 DESIGN (Agente: Designer de Missão Interativa)
+
+📌 Missão: "Simópolis Verde: A Revolução Sustentável"
+
+📖 Narrativa:
+O bairro Simópolis está sendo sufocado pelo lixo e pela poluição. O jogador assume o papel de um novo morador com a missão de transformar a comunidade em um exemplo de sustentabilidade.
+
+🎯 Objetivos do jogador:
+- Implementar coleta seletiva em todos os apartamentos.
+- Criar hortas comunitárias e plantar 10 árvores.
+- Organizar um evento de conscientização com NPCs vizinhos.
+- Alcançar o selo "Eco-Cidadão" no jogo.
+
+🕹️ Mecânicas:
+- Diálogo com NPCs para convencê-los a mudar hábitos.
+- Sistema de pontos verdes por boas ações.
+- Itens colecionáveis: compostores, painéis solares e ecobags.
+
+---
+
+✍️ REVISÃO (Agente: Revisor de Conteúdo Gamificado)
+
+Melhorias aplicadas:
+- Clareza nos objetivos da missão.
+- Narração mais fluida e envolvente.
+- Adição de mecânicas que reforçam o aprendizado ecológico de forma lúdica.
+
+🎉 Resultado final:
+Missão pronta para ser implementada em um protótipo interativo ou em jogos estilo The Sims, Habbo ou The Sims Freeplay.
+
