@@ -1,11 +1,14 @@
-# Importação das bibliotecas principais
 from langchain_google_genai import ChatGoogleGenerativeAI
 from crewai import Agent, Task, Crew, Process, LLM
 
 import os
+import sys
+import io
 
-# Define a variável de ambiente com a chave da API do Google (Gemini)
-os.environ["GOOGLE_API"] = "AIzaSyB-SH8V5QQ0QCtNXsP1QRJ87ztA2vp2J04"  
+# Força saída UTF-8
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8') 
+
+os.environ["GOOGLE_API_KEY"] = "AIzaSyB-SH8V5QQ0QCtNXsP1QRJ87ztA2vp2J04"
 
 # Instanciando o modelo de linguagem da Google (Gemini 2.0)
 llm = LLM(
@@ -13,7 +16,7 @@ llm = LLM(
     verbose=True,          # Mostra logs detalhados no terminal
     # Controla a criatividade das respostas (0 = mais preciso)
     temperature=0.4,
-    api_key=os.environ["GOOGLE_API"]
+    api_key = os.environ["GOOGLE_API_KEY"]
 )
 
 # ---------------------
